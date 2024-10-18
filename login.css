@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 183, 245);
+}
+.centro{
+border-radius: 2px;
+border-style: solid;
+padding: 0%;
+box-shadow: 21px;
+width: 500px;
+align-items: center;
+text-align: center;
+position: relative;
+left: 33%;
+background: rgba(126, 89, 179, 0.534);
+
+  }
+   
+.btn2{
+  background-color: rgb(142, 118, 202);
+  left: 600px;
+  top: 70px;
+}
+
+h3,h5,h6{
+  background-color: rgb(105, 114, 236);
+}
+button{
+  border: none;
+}
